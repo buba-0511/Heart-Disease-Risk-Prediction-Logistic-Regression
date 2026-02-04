@@ -32,8 +32,6 @@ Este repositorio contiene la implementación de un sistema de soporte de decisio
    ![alt text](<Screenshot 2026-02-03 at 11.42.09 PM.png>)
 2. **Configuración del Endpoint:**
    ![alt text](<Screenshot 2026-02-03 at 11.44.08 PM.png>)
-3. **Respuesta de Inferencia:**
-   ![Inference Response](tu_captura_3.png) *(Inserte captura de la celda con el JSON de salida)*
 
 ### **Prueba de Invocación (Sample Output)**
 ```json
